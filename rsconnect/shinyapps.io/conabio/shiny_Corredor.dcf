@@ -1,0 +1,9 @@
+name: shiny_Corredor
+account: conabio
+server: shinyapps.io
+appId: 125343
+bundleId: 555888
+url: https://conabio.shinyapps.io/shiny_Corredor/
+when: 1473724784.97156
+asMultiple: FALSE
+asStatic: FALSE
